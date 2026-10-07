@@ -70,7 +70,7 @@
 
 ## 🔓 Open-Source GitHub Projects 🐙
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Vitess](https://github.com/vitessio/vitess)** [![Stars](https://img.shields.io/github/stars/vitessio/vitess?style=social&color=white)](https://github.com/vitessio/vitess/stargazers)  
   **Database clustering system for horizontal scaling of MySQL**, Apache-2.0 licensed. **CNCF Graduated project** powering YouTube, Slack, and Square. Features distributed sharding, connection pooling, and Vitess Kubernetes Operator. 🌐
@@ -116,7 +116,7 @@ Contributions are welcome! Follow these steps to submit new custom managed datab
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact Stars Count badge, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count badge, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
